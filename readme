@@ -1,0 +1,11 @@
+
+
+To use this slot machine you have to use, **node slot.js** in the **terminal**
+to change the values of the coins you have to change **SYBOL_VALUES** on **line 14**:
+```javascript 
+const SYBOL_VALUES = {
+    "A": 5,
+    "B": 4,
+    "C": 3,
+    "D": 2
+};``
